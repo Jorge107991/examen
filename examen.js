@@ -23,3 +23,11 @@ console.log( z );
 
 /*Con tus variables ya existentes vas a hacer la siguiente operacion vas a multiplicar la variable a * b y 
 dividir la variable c por la variable a despues usando usar el operador  de asignacion ingrementar su valor por 100 y al final preguntar si es menor o igual  a la variable d */
+
+z = a * b
+
+console.log( z );
+
+z = a / c;
+
+console.log( z );
